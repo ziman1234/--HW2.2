@@ -1,5 +1,5 @@
 # 神经网络--HW2.2
-# homework of 620004 Faster RCNN
+homework of 620004 Faster RCNN
 # thanks bubbliiiing，https://github.com/bubbliiiing/faster-rcnn-tf2.git
 # 将VOC数据集解压至根目录
 # 将预训练模型权重放在model_data
